@@ -212,8 +212,7 @@
         
         \begin{flushleft}
             \begin{abstract}
-    }
-    {%
+    }{%
                 \par
                 Thesis Supervisor: {\supervisor}\\
                 Title: {\supervisortitle}
