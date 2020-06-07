@@ -1,8 +1,17 @@
 # LaTeX thesis template for DIU (Unofficial)
 
-This is an unofficial LaTeX thesis template for the students of Daffodil International University (DIU).
+This is an unofficial LaTeX (pronounced either "Lah-tech" or "Lay-tech") thesis template for the students of [Daffodil International University](https://daffodilvarsity.edu.bd/) (DIU).
 
 [Demo](https://www.ayonkhan.me/files/doe-mmis-dcse-2020.pdf)
+
+## How to Use
+
+You can install a LaTeX distribution such as [MacTeX](http://www.tug.org/mactex/), [MiKTeX](http://miktex.org/) on your computer, and then import the files.
+
+However, I would suggest an online editor like [Overleaf](https://www.overleaf.com/) or [Papeeria](http://papeeria.com/) if you are new to LaTeX. You should also check out these books.
+
+- [https://en.wikibooks.org/wiki/LaTeX](https://en.wikibooks.org/wiki/LaTeX) [[PDF version](https://upload.wikimedia.org/wikipedia/commons/2/2d/LaTeX.pdf)]
+- [https://en.wikibooks.org/wiki/TeX](https://en.wikibooks.org/wiki/TeX)
 
 ## Author
 
