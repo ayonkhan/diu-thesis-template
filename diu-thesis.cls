@@ -192,7 +192,7 @@
         \thispagestyle{plain}
         
         \phantomsection
-        \addcontentsline{toc}{chapter}{Abstract}
+        \addcontentsline{toc}{chapter}{\abstractname}
         
         \begin{center}
             \vspace{1cm}
