@@ -2,6 +2,8 @@
 
 This is an unofficial LaTeX thesis template for the students of Daffodil International University (DIU).
 
+[Demo](https://www.ayonkhan.me/files/doe-mmis-dcse-2020.pdf)
+
 ## Author
 
 - Ayon Khan | [GitHub](https://github.com/ayonkhan) | [Twitter](https://twitter.com/ayonkhan) | [ayonkhan.me](https://www.ayonkhan.me)
