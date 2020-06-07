@@ -1,0 +1,71 @@
+%%
+% DIU Thesis Template ``main.tex''
+%
+% Author: Ayon Khan <ayonkhan AT gmail.com>
+% Date: 2020/06/06
+%
+% License: CC BY 4.0
+% License URL: https://creativecommons.org/licenses/by/4.0/
+%%
+
+\documentclass{diu-thesis}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[autostyle]{csquotes}
+% \usepackage{xcolor} % Uncomment it if needed
+% \usepackage{caption} % Uncomment it if needed
+% \usepackage{subcaption} % Uncomment it if needed
+% \usepackage{tabularx} % Uncomment it if needed
+% \usepackage{makecell} % Uncomment it if needed
+% \usepackage{lipsum} % Uncomment it if needed
+\usepackage{blindtext} % For demonstration purposes only; remove or comment it out
+
+\usepackage[style=alphabetic,sorting=nty]{biblatex}
+\addbibresource{references.bib}
+
+% Start of change the value
+\title{DIU Thesis Template} % The value be accessed by \gettitle
+\author{John Doe} % The value be accessed by \getauthor
+% \date{June 2020}
+
+% \set<name>{value}, the value can be accessed by \<value>
+% e.g. \studentid, \approvalcomdept etc.
+\setstudentid{XXX-XX-XXX}
+\setstudentdept{Management Information System}
+\setdepartment{Computer Science and Engineering}
+\setdegreeword{Master of Science}
+\setdegree{Management Information System}
+\setdegreemonth{June}
+\setdegreeyear{2020}
+\setthesisdate{June 19, 2020}
+\setsupervisor{Jane Doe}
+\setsupervisortitle{Assistant Professor}
+\setsupervisordept{Computer Science and Engineering}
+\setsupervisorfaculty{Science and Information Technology}
+\setapprovalcomdept{Computer Science and Engineering}
+% End of change the value
+
+\begin{document}
+    \pagenumbering{roman}
+    
+    \include{cover}
+    
+    \tableofcontents
+    \listoffigures
+    \listoftables
+    
+    \cleardoublepage
+    \setcounter{page}{1}
+    \pagenumbering{arabic}
+    
+    \chapter{Introduction}
+    \input{chapters/introduction}
+    
+    \input{chapters/chapter-02} % For demonstration purposes only; remove it
+    
+    \chapter{Conclusion}
+    \input{chapters/conclusion}
+    
+    \printbibliography[heading=bibintoc, title={Bibliography}]
+\end{document}
