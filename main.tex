@@ -51,9 +51,13 @@
     
     \include{cover}
     
-    \tableofcontents
-    \listoffigures
-    \listoftables
+    \begingroup
+        \pagestyle{plain}
+        
+        \tableofcontents
+        \listoffigures
+        \listoftables
+    \endgroup
     
     \cleardoublepage
     \setcounter{page}{1}
