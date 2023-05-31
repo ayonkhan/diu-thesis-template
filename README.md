@@ -2,7 +2,7 @@
 
 This is an unofficial LaTeX (pronounced either "Lah-tech" or "Lay-tech") thesis template for the students of [Daffodil International University](https://daffodilvarsity.edu.bd/) (DIU).
 
-[Demo](https://www.ayonkhan.me/files/doe-mmis-dcse-2020.pdf)
+[Demo](https://files.ayonkhan.me/doe-mmis-dcse-2020.pdf)
 
 ## How to Use
 
