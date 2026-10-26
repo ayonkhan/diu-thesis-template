@@ -2,7 +2,7 @@
 
 This is an unofficial LaTeX (pronounced either "Lah-tech" or "Lay-tech") thesis template for the students of [Daffodil International University](https://daffodilvarsity.edu.bd/) (DIU).
 
-[Demo](https://files.ayonkhan.me/doe-mmis-dcse-2020.pdf)
+[Demo](doe-mmis-dcse-2020.pdf)
 
 ## How to Use
 
@@ -15,7 +15,7 @@ However, I would suggest an online editor like [Overleaf](https://www.overleaf.c
 
 ## Author
 
-- Ayon Khan | [GitHub](https://github.com/ayonkhan) | [Twitter](https://twitter.com/ayonkhan) | [ayonkhan.me](https://www.ayonkhan.me)
+- Ayon Khan | [GitHub](https://github.com/ayonkhan) | [Twitter](https://twitter.com/ayonkhan) | [ayonkhan.ca](https://www.ayonkhan.ca)
 
 ## Contributing
 
